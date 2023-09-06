@@ -1,0 +1,85 @@
+{
+    "data": [
+      {
+        "nombre": "Cliente 1",
+        "texto": "Información del Cliente 1",
+        "descripcion": "Descripción del Cliente 1",
+        "foto": "avatar.png",
+        "foto2": "avatar2.png",
+        "estado": true
+      },
+      {
+        "nombre": "Cliente 2",
+        "texto": "Información del Cliente 2",
+        "descripcion": "Descripción del Cliente 2",
+        "foto": "avatar2.png",
+        "foto2": "avatar.png",
+        "estado": true
+      },
+      {
+        "nombre": "Cliente 3",
+        "texto": "Información del Cliente 3",
+        "descripcion": "Descripción del Cliente 3",
+        "foto": "avatar.png",
+        "foto2": "avatar2.png",
+        "estado": false
+      },
+      {
+        "nombre": "Cliente 4",
+        "texto": "Información del Cliente 4",
+        "descripcion": "Descripción del Cliente 4",
+        "foto": "avatar2.png",
+        "foto2": "avatar.png",
+        "estado": true
+      },
+      {
+        "nombre": "Cliente 5",
+        "texto": "Información del Cliente 5",
+        "descripcion": "Descripción del Cliente 5",
+        "foto": "avatar.png",
+        "foto2": "avatar2.png",
+        "estado": true
+      },
+      {
+        "nombre": "Cliente 6",
+        "texto": "Información del Cliente 6",
+        "descripcion": "Descripción del Cliente 6",
+        "foto": "avatar2.png",
+        "foto2": "avatar.png",
+        "estado": false
+      },
+      {
+        "nombre": "Cliente 7",
+        "texto": "Información del Cliente 7",
+        "descripcion": "Descripción del Cliente 7",
+        "foto": "avatar.png",
+        "foto2": "avatar2.png",
+        "estado": true
+      },
+      {
+        "nombre": "Cliente 8",
+        "texto": "Información del Cliente 8",
+        "descripcion": "Descripción del Cliente 8",
+        "foto": "avatar2.png",
+        "foto2": "avatar.png",
+        "estado": true
+      },
+      {
+        "nombre": "Cliente 9",
+        "texto": "Información del Cliente 9",
+        "descripcion": "Descripción del Cliente 9",
+        "foto": "avatar.png",
+        "foto2": "avatar2.png",
+        "estado": false
+      },
+      {
+        "nombre": "Cliente 10",
+        "texto": "Información del Cliente 10",
+        "descripcion": "Descripción del Cliente 10",
+        "foto": "avatar2.png",
+        "foto2": "avatar.png",
+        "estado": true
+      }
+    ]
+  }
+  

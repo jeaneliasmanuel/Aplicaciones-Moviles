@@ -1,0 +1,21 @@
+.btn {
+    background-color: #002fff; /* Cambia esto al color de fondo que desees */
+    color: #fff; /* Cambia esto al color de texto que desees */
+    padding: 10px 1px; /* Ajusta el padding según tus necesidades */
+    border-radius: 30px; /* Cambia esto para ajustar el radio del borde */
+    font-size: 100px; /* Cambia esto al tamaño de fuente que desees */
+}
+
+#contenedor{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto {
+    font-size: 16px; /* Tamaño de fuente, ajusta según tus preferencias */
+    color: #333; /* Color de texto, ajusta según tus preferencias */
+    text-align: left; /* Alineación de texto, puedes usar 'center' o 'right' si lo prefieres */
+}
+  
