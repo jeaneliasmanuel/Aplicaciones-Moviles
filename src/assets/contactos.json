@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "nombre": "Juan Perez",
+        "telefono": "984657483",
+        "correo": "jperez@unitru.edu.pe",
+        "foto": "contacto_h.png"
+      },
+      {
+        "nombre": "Jean Reyes",
+        "telefono": "983748589",
+        "correo": "jreyes@unitru.edu.pe",
+        "foto": "contacto_h.png"
+      },
+      {
+        "nombre": "María López",
+        "telefono": "987654321",
+        "correo": "mlopez@unitru.edu.pe",
+        "foto": "contacto_m.png"
+      },
+      {
+        "nombre": "Pedro García",
+        "telefono": "982345678",
+        "correo": "pgarcia@unitru.edu.pe",
+        "foto": "contacto_h.png"
+      },
+      {
+        "nombre": "Laura Torres",
+        "telefono": "989123456",
+        "correo": "ltorres@unitru.edu.pe",
+        "foto": "contacto_m.png"
+      },
+      {
+        "nombre": "Carlos Rodríguez",
+        "telefono": "981234567",
+        "correo": "crodriguez@unitru.edu.pe",
+        "foto": "contacto_h.png"
+      },
+      {
+        "nombre": "Ana Martínez",
+        "telefono": "987876543",
+        "correo": "amartinez@unitru.edu.pe",
+        "foto": "contacto_m.png"
+      },
+      {
+        "nombre": "Luis Sánchez",
+        "telefono": "980001111",
+        "correo": "lsanchez@unitru.edu.pe",
+        "foto": "contacto_h.png"
+      },
+      {
+        "nombre": "Elena Fernández",
+        "telefono": "987777777",
+        "correo": "efernandez@unitru.edu.pe",
+        "foto": "contacto_m.png"
+      },
+      {
+        "nombre": "Miguel González",
+        "telefono": "989898989",
+        "correo": "mgonzalez@unitru.edu.pe",
+        "foto": "contacto_h.png"
+      }
+    ]
+  }
+  
